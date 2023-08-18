@@ -42,11 +42,11 @@ _Note: Setting up of Amazon Web Service requirements is explained in the [**Acco
 
 ### Local Machine Installations
 
-- AWS Command Line Interface (CLI)
-- AWS Serverless Application Model (SAM) CLI
-- Git
-- Node.js
-- Python
+- AWS Command Line Interface (CLI) v2.11.25
+- AWS Serverless Application Model (SAM) CLI v1.84.0
+- Git v2.41.0
+- Node.js v9.5.1
+- Python v3.11.4
 
 ## Overall Setup
 
